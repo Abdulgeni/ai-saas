@@ -17,10 +17,6 @@ A complete, production-ready SaaS platform with user authentication, AI-powered 
 
 Next.js 16 | TypeScript | Tailwind CSS | NextAuth.js | PostgreSQL (Neon) | Prisma | Google Gemini 2.5 Flash | Stripe | Vercel
 
-## Live Demo
-
-ai-saas.vercel.app
-
 ## Quick Start
 
 git clone https://github.com/Abdulgeni/ai-saas.git
